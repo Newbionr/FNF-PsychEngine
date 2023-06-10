@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="PixelSans.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="IdlePixel0000" x="16" y="16" width="128" height="128"/>
+	<SubTexture name="IdlePixel0001" x="16" y="16" width="128" height="128"/>
+	<SubTexture name="IdlePixel0002" x="144" y="16" width="128" height="128"/>
+	<SubTexture name="IdlePixel0003" x="144" y="16" width="128" height="128"/>
+	<SubTexture name="IdlePixel0004" x="272" y="16" width="128" height="128"/>
+	<SubTexture name="IdlePixel0005" x="272" y="16" width="128" height="128"/>
+	<SubTexture name="IdlePixel0006" x="16" y="144" width="128" height="128"/>
+	<SubTexture name="IdlePixel0007" x="16" y="144" width="128" height="128"/>
+	<SubTexture name="IdlePixel0008" x="144" y="144" width="128" height="128"/>
+	<SubTexture name="IdlePixel0009" x="144" y="144" width="128" height="128"/>
+	<SubTexture name="IdlePixel0010" x="144" y="144" width="128" height="128"/>
+	<SubTexture name="IdlePixel0011" x="144" y="144" width="128" height="128"/>
+	<SubTexture name="IdlePixel0012" x="144" y="144" width="128" height="128"/>
+	<SubTexture name="IdlePixel0013" x="144" y="144" width="128" height="128"/>
+</TextureAtlas>
