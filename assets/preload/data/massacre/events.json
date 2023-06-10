@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				269647.058823529,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"Papayas"
+					],
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				297882.352941176,
+				[
+					[
+						"Change Character",
+						"gf",
+						"Papded"
+					]
+				]
+			],
+			[
+				299294.117647058,
+				[
+					[
+						"Play Animation",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				299999.999999999,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-invisible"
+					]
+				]
+			]
+		]
+	}
+}
