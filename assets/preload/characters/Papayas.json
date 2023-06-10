@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "PapsDance",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "PapsDance",
+			"indices": [
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-32
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PapsUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-57
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PapsLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				48
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PapsDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-29
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PapsRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ded",
+	"position": [
+		100,
+		250
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		189,
+		55,
+		95
+	],
+	"camera_position": [
+		-170,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

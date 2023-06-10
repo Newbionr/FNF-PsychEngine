@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "PapsDed"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PapyrusDead",
+	"position": [
+		50,
+		150
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		189,
+		55,
+		95
+	],
+	"camera_position": [
+		-170,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

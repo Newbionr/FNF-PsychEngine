@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sans Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sans Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sans Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				78
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sans Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sans Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Killer",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "msans",
+	"flip_x": false,
+	"healthbar_colors": [
+		121,
+		121,
+		255
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 14,
+	"scale": 1
+}

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/PixelSans",
+	"position": [
+		150,
+		420
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		-400,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 6.8
+}
